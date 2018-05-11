@@ -1,0 +1,12 @@
+.information_source {
+	display:block;
+	width:100%;
+	background-color:#F0F0F0;
+	border-radius:4px;
+	padding:10px;
+	margin:5px 0;
+	font-size:0.8em;
+	border-width:1px;
+	border-style: solid;
+    border-color: #cacaca; 
+}

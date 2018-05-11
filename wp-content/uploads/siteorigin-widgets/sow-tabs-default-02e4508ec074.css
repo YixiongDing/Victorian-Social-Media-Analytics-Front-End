@@ -1,0 +1,41 @@
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-tab-container {
+  background-color: #828282;
+  padding: 12px 10px 0px 10px;
+  
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-tab-container .sow-tabs-tab {
+  display: inline-block;
+  cursor: pointer;
+  
+  padding: 16px 15px 16px 15px;
+  margin: 0px 5px 0px 5px;
+  color: #ffffff;
+  
+  
+  font-size: 18px;
+  transition: all 0.3s;
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-tab-container .sow-tabs-tab.sow-tabs-tab-selected,
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-tab-container .sow-tabs-tab:hover {
+  background-color: #f9f9f9;
+  color: #2d2d2d;
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-tab-container .sow-tabs-tab .sow-tabs-title {
+  line-height: 1;
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-panel-container {
+  position: relative;
+  background-color: #f9f9f9;
+  
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-panel-container .sow-tabs-panel {
+  padding: 30px 30px 30px 35px;
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-panel-container .sow-tabs-panel .sow-tabs-panel-content {
+  
+  
+  font-size: 16px;
+}
+.so-widget-sow-tabs-default-02e4508ec074 .sow-tabs .sow-tabs-panel-container .sow-tabs-panel .sow-tabs-panel-content > p {
+  margin: 0;
+}

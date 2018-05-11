@@ -1,0 +1,303 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: actinia\n"
+"POT-Creation-Date: 2017-07-08 13:59+0200\n"
+"PO-Revision-Date: 2017-07-08 14:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;esc_html__;esc_attr__;__;esc_html_e;esc_html_x;"
+"esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:33
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:51
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:40 comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:66
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46 comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:25
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:28
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:49
+msgid "Primary"
+msgstr ""
+
+#: functions.php:92
+msgid "Primary Widget Area"
+msgstr ""
+
+#: functions.php:94 functions.php:104
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:102
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions.php:180
+msgid "more"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:33
+msgid "Menu"
+msgstr ""
+
+#: image.php:41
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:42
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid ""
+"Here you can pick a ready-made color scheme or create your own color palette:"
+msgstr ""
+
+#: inc/customizer.php:30
+msgid "Color Schemes"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid "Red and Black"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Green and Red"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Orange and Cyan"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Dark Magenta and Green"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Blue and Orange"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Dark Pink and Green"
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Primary Color A"
+msgstr ""
+
+#: inc/customizer.php:72
+msgid "Primary Color B"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Secondary Color A"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Secondary Color B"
+msgstr ""
+
+#: inc/customizer.php:123
+msgid "Sticky Color"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Header and Border Color of Sticky Posts"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Navigation Bar Position"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Horizontal Navigation Bar"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Vertical Navigation Bar"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/customizer.php:190
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid "Post Meta Data Position"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid ""
+"Position of post meta data (the author of the post, the date the post was "
+"published, its tags and/or categories)"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Left Meta Data"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Top Meta Data"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "calendar"
+msgstr ""
+
+#: inc/template-tags.php:38
+msgid "user"
+msgstr ""
+
+#: inc/template-tags.php:56 inc/template-tags.php:63
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:57
+msgid "folder"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "tag"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "comments"
+msgstr ""
+
+#: inc/template-tags.php:74
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:81 template-parts/content-page.php:45
+#: template-parts/content-search.php:46
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:84
+msgid "edit"
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12 searchform.php:13
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: single.php:21
+msgid "&lt;&lt;"
+msgstr ""
+
+#: single.php:21
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:22
+msgid "Next Post"
+msgstr ""
+
+#: single.php:22
+msgid "&gt;&gt;"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

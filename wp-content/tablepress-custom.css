@@ -1,0 +1,45 @@
+.tablepress {
+	background-color: #CDCDCD;
+	margin: 10px 0 15px 0;
+	font-size: 11pt;
+	width: 98%;
+	text-align: left;
+}
+
+.tablepress th {
+	background-color: #E6EEEE;
+	border: 1px solid #FFFFFF;
+	padding: 4px;
+}
+
+.tablepress td {
+	color: #3D3D3D;
+	padding: 4px;
+	background-color: #FFFFFF;
+	vertical-align: top;
+}
+
+.tablepress .even td {
+	background-color: #FFFFFF;
+}
+
+.tablepress .odd td {
+	background-color: #F0F0F6;
+}
+
+.tablepress .header {
+	background-image: url(http://lifeinthefastlane.com/wp-content/plugins/wp-table-reloaded/img/bg.gif);
+	background-repeat: no-repeat;
+	background-position: center right;
+	cursor: pointer;
+}
+
+.tablepress .headerSortUp {
+	background-color: #8DBDD8;
+	background-image: url(http://lifeinthefastlane.com/wp-content/plugins/wp-table-reloaded/img/asc.gif);
+}
+
+.tablepress .headerSortDown {
+	background-color: #8DBDD8;
+	background-image: url(http://lifeinthefastlane.com/wp-content/plugins/wp-table-reloaded/img/desc.gif);
+}
